@@ -6,4 +6,4 @@
 
 ### Website
 
-https://jaenfigueroa.github.io/Cube-3D/
+https://jaenfigueroa.github.io/3D-Cube/
